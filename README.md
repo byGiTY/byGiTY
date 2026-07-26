@@ -4,15 +4,15 @@
 - My Neovim Config [DeltaNvim](https://github.com/yfrvids/DeltaNvim), and its versions for C#/C++/C [dnc](https://github.com/yfrvids/dnc) and Latex/Markdown/Documentation [dnd](https://github.com/yfrvids/dnd)
 - [My Personal Wiki](https://github.com/yfrvids/Personal-Wiki-ArchLinux)
 
-## Projects
+## My Projects
 
-### Flashcards
-
-- [Ownlanguage](https://ownlanguage.vercel.app/)
+<!--
 
 ### Organiza mi empleo
 
 - [OrganizaMiEmpleo](https://organizamiempleo.vercel.app/)
+
+-->
 
 ### Broud
 
@@ -23,7 +23,7 @@
 - [WhySoSimple](https://whysosimple-jekylltemplate.vercel.app/) [repo](https://github.com/yfrvids/WhySoSimple)
 - [RetroTemp](https://retrotemp.vercel.app/) [repo](https://github.com/yfrvids/retrotemp)
 
-### Software/Scripts
+### My Softwares/Scripts
 
 #### Tools
 
@@ -45,7 +45,10 @@
 
 - [Ensayo] [ESP] Autosuficiencia, Ralph Waldo Emerson (Editorial Verbum)
 - [Ensayo/Essay] [ESP] La Multitud Es Falsedad, Soren Kierkegaard - [ENG] The Crowd is Untruth, Soren Kierkegaard
+
+<!--
 - [Libro/Book/Manual] [ESP] Aplicación Practica De La Alta Intensidad En El Fisicoculturismo (Heavy Duty), Mike Mentzer, Roberto Marago, Dorian Yates
+-->
 
 ### Software
 
@@ -64,15 +67,3 @@
 ### General
 
 - [yEd](https://www.yworks.com/products/yed) which is a general-purpose diagramming program
-
-### Games - Juegos
-
-#### PS2/PS2 Emulator
-
-- PES6 Absolute Patch
-- Winning Eleven 10 Copa Mustang 2007
-- PES Infinity Patch 2026 (Patch PES6)
-
-#### PC
-
-- [Ashes 2063 Episode 1](https://www.moddb.com/mods/ashes-2063) Doom II mod
