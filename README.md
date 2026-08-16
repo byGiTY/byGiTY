@@ -4,7 +4,12 @@
 - My Neovim Config [DeltaNvim](https://github.com/yfrvids/DeltaNvim), and its versions for C#/C++/C [dnc](https://github.com/yfrvids/dnc) and Latex/Markdown/Documentation [dnd](https://github.com/yfrvids/dnd)
 - [My Personal Wiki](https://github.com/yfrvids/Personal-Wiki-ArchLinux)
 
-## My Projects
+## My Last Project
+
+Minetest Skin Editor | MSEY [Website](https://msey.vercel.app/)
+
+
+## Other Projects
 
 <!--
 
@@ -43,18 +48,9 @@
 
 ### Books/Essays [ENG] - Libros/Ensayos [ESP]
 
-- [Ensayo] [ESP] Autosuficiencia, Ralph Waldo Emerson (Editorial Verbum)
 - [Ensayo/Essay] [ESP] La Multitud Es Falsedad, Soren Kierkegaard - [ENG] The Crowd is Untruth, Soren Kierkegaard
 
-<!--
-- [Libro/Book/Manual] [ESP] Aplicación Practica De La Alta Intensidad En El Fisicoculturismo (Heavy Duty), Mike Mentzer, Roberto Marago, Dorian Yates
--->
-
 ### Software
-
-#### Christianity/Catholicism ✝️
-
-[ESP] La Sagrada Biblia de Straubinger tambien llamada Biblia Platense es la Biblia que acostumbro a leer, antes de esa opté por La Sagrada Biblia de Navarra que tambien es una muy buena elección.
 
 ##### Linux
 
