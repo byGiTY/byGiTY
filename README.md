@@ -32,7 +32,9 @@
 
 [Broud](https://broud.netlify.app/) - FEBRUARY 2025 (WEBAPP)
 
-[SpaVim (PC & TERMUX Version)](https://github.com/spavimm/spaVim) - AUGUST 2022 (COMMAND LINE CODE EDITOR FOR LINUX)
+[DeltaNvim](https://github.com/byGiTY/DeltaNvim/tree/main) ([DNC](https://github.com/byGiTY/dnc) + [DND](https://github.com/byGiTY/dnd)) - OCT 2024 (COMMAND LINE CODE EDITOR FOR LINUX WITH LUA)
+
+[SpaVim (PC & TERMUX Version)](https://github.com/spavimm/spaVim) - AUGUST 2022 (COMMAND LINE CODE EDITOR FOR LINUX WITH VIMSCRIPT)
 
 ## Things I use and recommend
 
