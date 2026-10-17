@@ -12,6 +12,8 @@
 
 [Notalauncher!](https://github.com/byGiTY/Notalauncher) - OCT 2026 (SOFTWARE FOR LINUX)
 
+[AnciaConsonancia](https://anciaconsonancia.vercel.app/) - SEP 2026 (WEBAPP FOR MEASURING MUSICAL CONSONANCE)
+
 [Minetest Skin Editor](https://msey.vercel.app/) - AUGUST 2026 (WEBAPP)
 
 [RetroTemp](https://retrotemp.vercel.app/) [repo](https://github.com/byGiTY/retrotemp) - MARCH 2026 (WEB TEMPLATE BASED ON JEKYLL)
