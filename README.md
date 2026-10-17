@@ -1,12 +1,12 @@
-# ProFile
-
-- [Blog]()
-- My Neovim Config [DeltaNvim](https://github.com/yfrvids/DeltaNvim), and its versions for C#/C++/C [dnc](https://github.com/yfrvids/dnc) and Latex/Markdown/Documentation [dnd](https://github.com/yfrvids/dnd)
-- [My Personal Wiki](https://github.com/yfrvids/Personal-Wiki-ArchLinux)
+# Me
+- My Neovim Config [DeltaNvim](https://github.com/byGiTY/DeltaNvim), and its versions for C#/C++/C [dnc](https://github.com/byGiTY/dnc) and Latex/Markdown/Documentation [dnd](https://github.com/byGiTY/dnd)
+- [My Personal Wiki](https://github.com/byGiTY/Personal-Wiki-ArchLinux)
 
 ## My Contributions
 
+☆ **83.3k stars** on github [Jesseduffield/Lazygit](https://github.com/jesseduffield/lazygit/pull/2126)
 
+☆ **2.6k stars** on github [Polybar/Polybar-scripts](https://github.com/polybar/polybar-scripts/pull/469)
 
 ## My Projects
 
@@ -14,19 +14,19 @@
 
 [Minetest Skin Editor](https://msey.vercel.app/) - AUGUST 2026 (WEBAPP)
 
-[RetroTemp](https://retrotemp.vercel.app/) [repo](https://github.com/yfrvids/retrotemp) - MARCH 2026 (WEB TEMPLATE BASED ON JEKYLL)
+[RetroTemp](https://retrotemp.vercel.app/) [repo](https://github.com/byGiTY/retrotemp) - MARCH 2026 (WEB TEMPLATE BASED ON JEKYLL)
 
-[FFMPEG Script (DotRec)](https://github.com/yfrvids/leiscripts/tree/main/scripts/dotrec) - JANUARY 2026 (LINUX SCRIPT)
+[FFMPEG Script (DotRec)](https://github.com/byGiTY/leiscripts/tree/main/scripts/dotrec) - JANUARY 2026 (LINUX SCRIPT)
 
-[Linux Window Manager Display Scale Script (DotScale)](https://github.com/yfrvids/leiscripts/tree/main/scripts/dotscale) - JANUARY 2026 (LINUX SCRIPT)
+[Linux Window Manager Display Scale Script (DotScale)](https://github.com/byGiTY/leiscripts/tree/main/scripts/dotscale) - JANUARY 2026 (LINUX SCRIPT)
 
-[Linux FFMPEG Cam (DotCam)](https://github.com/yfrvids/leiscripts/tree/main/scripts/dotcam) - JANUARY 2026 (LINUX SCRIPT)
+[Linux FFMPEG Cam (DotCam)](https://github.com/byGiTY/leiscripts/tree/main/scripts/dotcam) - JANUARY 2026 (LINUX SCRIPT)
 
-[Blockhost](https://github.com/yfrvids/blockhost) - OCT 2025 (SOFTWARE FOR WINDOWS)
+[Blockhost](https://github.com/byGiTY/blockhost) - OCT 2025 (SOFTWARE FOR WINDOWS)
 
-[TemporizadorPy](https://github.com/yfrvids/temporizadorPY) - OCT 2025 (CROSS-PLATFORM SOFTWARE)
+[TemporizadorPy](https://github.com/byGiTY/temporizadorPY) - OCT 2025 (CROSS-PLATFORM SOFTWARE)
 
-[WhySoSimple](https://whysosimple-jekylltemplate.vercel.app/) [repo](https://github.com/yfrvids/WhySoSimple) - SEP 2025 (WEB TEMPLATE BASED ON JEKYLL)
+[WhySoSimple](https://whysosimple-jekylltemplate.vercel.app/) [repo](https://github.com/byGiTY/WhySoSimple) - SEP 2025 (WEB TEMPLATE BASED ON JEKYLL)
 
 [Broud](https://broud.netlify.app/) - FEBRUARY 2025 (WEBAPP)
 
