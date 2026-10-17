@@ -4,45 +4,31 @@
 - My Neovim Config [DeltaNvim](https://github.com/yfrvids/DeltaNvim), and its versions for C#/C++/C [dnc](https://github.com/yfrvids/dnc) and Latex/Markdown/Documentation [dnd](https://github.com/yfrvids/dnd)
 - [My Personal Wiki](https://github.com/yfrvids/Personal-Wiki-ArchLinux)
 
-## My Last Project
-
-Minetest Skin Editor | MSEY [Website](https://msey.vercel.app/)
+## My Contributions
 
 
-## Other Projects
 
-<!--
+## My Projects
 
-### Organiza mi empleo
+[Notalauncher!](https://github.com/byGiTY/Notalauncher) - OCT 2026 (SOFTWARE FOR LINUX)
 
-- [OrganizaMiEmpleo](https://organizamiempleo.vercel.app/)
+[Minetest Skin Editor](https://msey.vercel.app/) - AUGUST 2026 (WEBAPP)
 
--->
+[RetroTemp](https://retrotemp.vercel.app/) [repo](https://github.com/yfrvids/retrotemp) - MARCH 2026 (WEB TEMPLATE BASED ON JEKYLL)
 
-### Broud
+[FFMPEG Script (DotRec)](https://github.com/yfrvids/leiscripts/tree/main/scripts/dotrec) - JANUARY 2026 (LINUX SCRIPT)
 
-- [Broud](https://broud.netlify.app/)
+[Linux Window Manager Display Scale Script (DotScale)](https://github.com/yfrvids/leiscripts/tree/main/scripts/dotscale) - JANUARY 2026 (LINUX SCRIPT)
 
-### Webs Template
+[Linux FFMPEG Cam (DotCam)](https://github.com/yfrvids/leiscripts/tree/main/scripts/dotcam) - JANUARY 2026 (LINUX SCRIPT)
 
-- [WhySoSimple](https://whysosimple-jekylltemplate.vercel.app/) [repo](https://github.com/yfrvids/WhySoSimple)
-- [RetroTemp](https://retrotemp.vercel.app/) [repo](https://github.com/yfrvids/retrotemp)
+[Blockhost](https://github.com/yfrvids/blockhost) - OCT 2025 (SOFTWARE FOR WINDOWS)
 
-### My Softwares/Scripts
+[TemporizadorPy](https://github.com/yfrvids/temporizadorPY) - OCT 2025 (CROSS-PLATFORM SOFTWARE)
 
-#### Tools
+[WhySoSimple](https://whysosimple-jekylltemplate.vercel.app/) [repo](https://github.com/yfrvids/WhySoSimple) - SEP 2025 (WEB TEMPLATE BASED ON JEKYLL)
 
-- [TemporizadorPy](https://github.com/yfrvids/temporizadorPY)
-- [FFMPEG Script (DotRec)](https://github.com/yfrvids/leiscripts/tree/main/scripts/dotrec)
-
-##### Windows
-
-- [Blockhost](https://github.com/yfrvids/blockhost)
-
-##### Linux
-
-- [Linux Window Manager Display Scale Script (DotScale)](https://github.com/yfrvids/leiscripts/tree/main/scripts/dotscale)
-- [Linux FFMPEG Cam (DotCam)](https://github.com/yfrvids/leiscripts/tree/main/scripts/dotcam)
+[Broud](https://broud.netlify.app/) - FEBRUARY 2025 (WEBAPP)
 
 ## Things I use and recommend
 
@@ -51,15 +37,5 @@ Minetest Skin Editor | MSEY [Website](https://msey.vercel.app/)
 - [Ensayo/Essay] [ESP] La Multitud Es Falsedad, Soren Kierkegaard - [ENG] The Crowd is Untruth, Soren Kierkegaard
 
 ### Software
-
-##### Linux
-
-- Bibletime ([flatpak](https://flathub.org/en/apps/info.bibletime.BibleTime), [github](https://github.com/bibletime/bibletime/releases)) 
-
-##### Windows
-
-- E-Sword [web](https://www.e-sword.net/)
-
-### General
 
 - [yEd](https://www.yworks.com/products/yed) which is a general-purpose diagramming program
