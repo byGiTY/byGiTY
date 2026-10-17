@@ -30,6 +30,8 @@
 
 [Broud](https://broud.netlify.app/) - FEBRUARY 2025 (WEBAPP)
 
+[SpaVim (PC & TERMUX Version)](https://github.com/spavimm/spaVim) - AUGUST 2022 (COMMAND LINE CODE EDITOR FOR LINUX)
+
 ## Things I use and recommend
 
 ### Books/Essays [ENG] - Libros/Ensayos [ESP]
