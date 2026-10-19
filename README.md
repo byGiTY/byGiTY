@@ -14,7 +14,7 @@
 
 [AnciaConsonancia](https://anciaconsonancia.vercel.app/) - SEP 2026 (WEBAPP FOR MEASURING MUSICAL CONSONANCE)
 
-[Minetest Skin Editor](https://msey.vercel.app/) - AUGUST 2026 (WEBAPP)
+[Minetest Skin Editor](https://msey.vercel.app/) - AUGUST 2026 (WEBAPP) [ON GOOGLE](https://www.google.com/search?q=site%3A%22msey.vercel.app%22+%22minetest+skin+editor%22)
 
 [RetroTemp](https://retrotemp.vercel.app/) [repo](https://github.com/byGiTY/retrotemp) - MARCH 2026 (WEB TEMPLATE BASED ON JEKYLL)
 
